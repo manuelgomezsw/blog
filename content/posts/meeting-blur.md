@@ -1,7 +1,9 @@
 +++
-date = '2024-11-22T15:36:06-05:00'
-draft = true
+author = 'Manuel Gómez'
 title = 'Meeting Blur'
+date = '2024-11-20'
+tags = [ 'Liderazgo', 'Reuniones Efectivas', 'Autoconciencia', 'Balance vida-trabajo', 'Toma de decisiones', 'The Art of Leadership' ]
+draft = false
 +++
 Hace un tiempo vengo preguntándome: ***¿cómo puede un líder ser exitoso cuando tiene un sinnúmero de temas a su cargo?*** Y cuando hablo de éxito, no me refiero solo a cumplir metas o gestionar proyectos. Me refiero a un liderazgo que aporta valor real: ese líder que participa activamente en las conversaciones de su equipo, que cuestiona decisiones y afirmaciones con sentido crítico, que ofrece una visión amplia y profunda de la operación y, además, logra todo esto sin sacrificar su vida personal.
 

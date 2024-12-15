@@ -2,8 +2,7 @@
 author = 'Manuel Gómez'
 title = 'Little Baby Bump'
 date = '2024-11-22'
-description = 'Esto es una prueba de descripción'
-tags = [ 'poema', 'Emmy', 'Cata' ]
+tags = [ 'Poema', 'Emmy', 'Cata' ]
 draft = false
 +++
 Let me tell you something,\

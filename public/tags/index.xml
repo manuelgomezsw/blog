@@ -29,5 +29,75 @@
       <guid>http://localhost:1313/tags/poema/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Autoconciencia</title>
+      <link>http://localhost:1313/tags/autoconciencia/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/autoconciencia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Balance Vida-Trabajo</title>
+      <link>http://localhost:1313/tags/balance-vida-trabajo/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/balance-vida-trabajo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Evolución</title>
+      <link>http://localhost:1313/tags/evoluci%C3%B3n/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/evoluci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Historia Humana</title>
+      <link>http://localhost:1313/tags/historia-humana/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/historia-humana/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Liderazgo</title>
+      <link>http://localhost:1313/tags/liderazgo/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/liderazgo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reuniones Efectivas</title>
+      <link>http://localhost:1313/tags/reuniones-efectivas/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/reuniones-efectivas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sapiens</title>
+      <link>http://localhost:1313/tags/sapiens/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sapiens/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Art of Leadership</title>
+      <link>http://localhost:1313/tags/the-art-of-leadership/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/the-art-of-leadership/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Toma De Decisiones</title>
+      <link>http://localhost:1313/tags/toma-de-decisiones/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/toma-de-decisiones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yuval Noah Harari</title>
+      <link>http://localhost:1313/tags/yuval-noah-harari/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/yuval-noah-harari/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
