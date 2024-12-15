@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'es-co'
+title = 'Pensamientos'
+theme = 'mini'
