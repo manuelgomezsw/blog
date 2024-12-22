@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reuniones Efectivas on Pensamientos</title>
-    <link>http://localhost:1313/tags/reuniones-efectivas/</link>
+    <link>https://example.org/tags/reuniones-efectivas/</link>
     <description>Recent content in Reuniones Efectivas on Pensamientos</description>
     <generator>Hugo</generator>
     <language>es-co</language>
     <lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/reuniones-efectivas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/reuniones-efectivas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meeting Blur</title>
-      <link>http://localhost:1313/posts/meeting-blur/</link>
+      <link>https://example.org/posts/meeting-blur/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/meeting-blur/</guid>
+      <guid>https://example.org/posts/meeting-blur/</guid>
       <description>&lt;p&gt;Hace un tiempo vengo preguntándome: &lt;em&gt;&lt;strong&gt;¿cómo puede un líder ser exitoso cuando tiene un sinnúmero de temas a su cargo?&lt;/strong&gt;&lt;/em&gt; Y cuando hablo de éxito, no me refiero solo a cumplir metas o gestionar proyectos. Me refiero a un liderazgo que aporta valor real: ese líder que participa activamente en las conversaciones de su equipo, que cuestiona decisiones y afirmaciones con sentido crítico, que ofrece una visión amplia y profunda de la operación y, además, logra todo esto sin sacrificar su vida personal.&lt;/p&gt;</description>
     </item>
   </channel>

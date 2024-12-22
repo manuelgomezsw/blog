@@ -2,32 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pensamientos</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on Pensamientos</description>
     <generator>Hugo</generator>
     <language>es-co</language>
     <lastBuildDate>Fri, 22 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Little Baby Bump</title>
-      <link>http://localhost:1313/posts/little-baby-bump/</link>
+      <link>https://example.org/posts/little-baby-bump/</link>
       <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/little-baby-bump/</guid>
+      <guid>https://example.org/posts/little-baby-bump/</guid>
       <description>&lt;p&gt;Let me tell you something,&lt;br&gt;&#xA;About your Dad,&lt;br&gt;&#xA;Let me whisper,&lt;br&gt;&#xA;A secret,&lt;/p&gt;&#xA;&lt;p&gt;There is nothing,&lt;br&gt;&#xA;He won&amp;rsquo;t do for you,&lt;br&gt;&#xA;He thinks about you,&lt;br&gt;&#xA;All the time,&lt;/p&gt;&#xA;&lt;p&gt;He works so hard for you,&lt;br&gt;&#xA;For his family,&lt;br&gt;&#xA;He wants you to have,&lt;br&gt;&#xA;The very best in life,\&lt;/p&gt;&#xA;&lt;p&gt;He just wants you,&lt;br&gt;&#xA;To be happy,&lt;br&gt;&#xA;That is why he takes,&lt;br&gt;&#xA;Care of us,&lt;/p&gt;&#xA;&lt;p&gt;So let&amp;rsquo;s make sure,&lt;br&gt;&#xA;That he knows,&lt;br&gt;&#xA;We appreciate him,&lt;br&gt;&#xA;We love him too.\&lt;/p&gt;</description>
     </item>
     <item>
       <title>La paradoja del Homo Sapiens: ficción, lazos y trascendencia</title>
-      <link>http://localhost:1313/posts/la-paradoja-del-homo-sapiens-ficcion-lazos-y-trascendencia/</link>
+      <link>https://example.org/posts/la-paradoja-del-homo-sapiens-ficcion-lazos-y-trascendencia/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/la-paradoja-del-homo-sapiens-ficcion-lazos-y-trascendencia/</guid>
+      <guid>https://example.org/posts/la-paradoja-del-homo-sapiens-ficcion-lazos-y-trascendencia/</guid>
       <description>&lt;p&gt;En Sapiens, Yuval Noah Harari nos invita a reflexionar sobre la peculiaridad de nuestra especie y cómo logramos pasar de ser “un animal sin importancia” a moldear el destino del planeta. En los capítulos “Un animal sin importancia” y “El árbol del saber”, el autor nos ofrece una narrativa poderosa sobre el impacto de nuestras historias, la fragilidad de nuestra biología y la fuerza de nuestra imaginación colectiva.&lt;/p&gt;&#xA;&lt;p&gt;“Estamos atrapados en los sueños de los muertos, pero estudiar la historia puede mostrarnos una vía de escape.”&lt;/p&gt;</description>
     </item>
     <item>
       <title>Meeting Blur</title>
-      <link>http://localhost:1313/posts/meeting-blur/</link>
+      <link>https://example.org/posts/meeting-blur/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/meeting-blur/</guid>
+      <guid>https://example.org/posts/meeting-blur/</guid>
       <description>&lt;p&gt;Hace un tiempo vengo preguntándome: &lt;em&gt;&lt;strong&gt;¿cómo puede un líder ser exitoso cuando tiene un sinnúmero de temas a su cargo?&lt;/strong&gt;&lt;/em&gt; Y cuando hablo de éxito, no me refiero solo a cumplir metas o gestionar proyectos. Me refiero a un liderazgo que aporta valor real: ese líder que participa activamente en las conversaciones de su equipo, que cuestiona decisiones y afirmaciones con sentido crítico, que ofrece una visión amplia y profunda de la operación y, además, logra todo esto sin sacrificar su vida personal.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Un cruce del destino, una decisión de amor</title>
+      <link>https://example.org/posts/un-cruce-del-destino-una-decision-de-amor/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/un-cruce-del-destino-una-decision-de-amor/</guid>
+      <description>&lt;p&gt;Milan Kundera en la Insoportable Levedad del Ser reflexiona que &lt;em&gt;&lt;strong&gt;la vida está llena de casualidades que pueden ser insignificantes pero que pueden moldear profundamente nuestras vidas&lt;/strong&gt;&lt;/em&gt;. Y es que por allá en el 2017 venía pensando sobre cuál sería ese siguiente paso fundamental en mi vida que entre las opciones estaba hacer la maestría. Y fue a finales de ese mismo año, que en la esquina del Carulla del Centro Comercial Oviedo, justo en el cruce para pasar hacia la escuela de idiomas de EAFIT, estaba dudoso de si entregar o no los papeles de la inscripción y me preguntaba si valía la pena meterme en esa vuelta canela, porque recién había regresado de un intento fallido de estudio en Bogotá que me tenía golpeado y la verdad es que no sé y no recuerdo qué me impulsó en ese momento a cruzar y dejar los papeles de la inscripción y hoy X años después, lo agradezco inmensamente porque si ese algo que me impulsó a cruzar no hubiese aparecido, no estuviera acá agradeciéndole a la vida y las energías por permitirme compartir mi vida con Cata, con Emmy y con todos ustedes, porque fue en la maestría que tuve la fortuna de coincidir con dos de mis grandes amigos en el que uno de ellos fue cupido. Gracias Tavo parcero.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Más allá del consumo: La IA al servicio de la sociedad</title>
+      <link>https://example.org/posts/mas-alla-del-consumo-la-ia-al-servicio-de-la-sociedad/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/mas-alla-del-consumo-la-ia-al-servicio-de-la-sociedad/</guid>
+      <description>&lt;p&gt;Hoy la AI es una herramienta súper potente, con una capacidad de uso infinita que ni el hombre, ni sus mismos pensadores, han dimensionado el impacto que esta pueda tener. Hoy quienes le han sacado provecho son las grandes tecnológicas, para ser cada vez más precisos en los réditos y eficaces en sus procesos. Para el resto de la humanidad y los demás sectores, la AI no es más que fuerza bruta con una gran capacidad de cómputo y el rockstar del sensacionalismo, algo más del momento.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
