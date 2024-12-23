@@ -120,5 +120,82 @@
       <guid>https://example.org/tags/votos-de-amor/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Familia</title>
+      <link>https://example.org/tags/familia/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/familia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Juanjo</title>
+      <link>https://example.org/tags/juanjo/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/juanjo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nacimiento</title>
+      <link>https://example.org/tags/nacimiento/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/nacimiento/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Celebración</title>
+      <link>https://example.org/tags/celebraci%C3%B3n/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/celebraci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flaca</title>
+      <link>https://example.org/tags/flaca/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/flaca/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gratitud</title>
+      <link>https://example.org/tags/gratitud/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/gratitud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Correr</title>
+      <link>https://example.org/tags/correr/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/correr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sabiduría</title>
+      <link>https://example.org/tags/sabidur%C3%ADa/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/sabidur%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Superación</title>
+      <link>https://example.org/tags/superaci%C3%B3n/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/superaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Esperanza</title>
+      <link>https://example.org/tags/esperanza/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/esperanza/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ternura</title>
+      <link>https://example.org/tags/ternura/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/ternura/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
