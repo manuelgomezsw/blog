@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Historia Humana on Pensamientos</title>
-    <link>https://example.org/tags/historia-humana/</link>
+    <link>http://localhost:1313/tags/historia-humana/</link>
     <description>Recent content in Historia Humana on Pensamientos</description>
     <generator>Hugo</generator>
     <language>es-co</language>
     <lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/historia-humana/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/historia-humana/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La paradoja del Homo Sapiens: ficción, lazos y trascendencia</title>
-      <link>https://example.org/posts/la-paradoja-del-homo-sapiens-ficcion-lazos-y-trascendencia/</link>
+      <link>http://localhost:1313/posts/la-paradoja-del-homo-sapiens-ficcion-lazos-y-trascendencia/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/la-paradoja-del-homo-sapiens-ficcion-lazos-y-trascendencia/</guid>
+      <guid>http://localhost:1313/posts/la-paradoja-del-homo-sapiens-ficcion-lazos-y-trascendencia/</guid>
       <description>&lt;p&gt;En Sapiens, Yuval Noah Harari nos invita a reflexionar sobre la peculiaridad de nuestra especie y cómo logramos pasar de ser “un animal sin importancia” a moldear el destino del planeta. En los capítulos “Un animal sin importancia” y “El árbol del saber”, el autor nos ofrece una narrativa poderosa sobre el impacto de nuestras historias, la fragilidad de nuestra biología y la fuerza de nuestra imaginación colectiva.&lt;/p&gt;&#xA;&lt;p&gt;“Estamos atrapados en los sueños de los muertos, pero estudiar la historia puede mostrarnos una vía de escape.”&lt;/p&gt;</description>
     </item>
   </channel>

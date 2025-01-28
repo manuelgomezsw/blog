@@ -2,199 +2,199 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Pensamientos</title>
-    <link>https://example.org/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Pensamientos</description>
     <generator>Hugo</generator>
     <language>es-co</language>
     <lastBuildDate>Fri, 22 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cata</title>
-      <link>https://example.org/tags/cata/</link>
+      <link>http://localhost:1313/tags/cata/</link>
       <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/cata/</guid>
+      <guid>http://localhost:1313/tags/cata/</guid>
       <description></description>
     </item>
     <item>
       <title>Emmy</title>
-      <link>https://example.org/tags/emmy/</link>
+      <link>http://localhost:1313/tags/emmy/</link>
       <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/emmy/</guid>
+      <guid>http://localhost:1313/tags/emmy/</guid>
       <description></description>
     </item>
     <item>
       <title>Poema</title>
-      <link>https://example.org/tags/poema/</link>
+      <link>http://localhost:1313/tags/poema/</link>
       <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/poema/</guid>
+      <guid>http://localhost:1313/tags/poema/</guid>
       <description></description>
     </item>
     <item>
       <title>Autoconciencia</title>
-      <link>https://example.org/tags/autoconciencia/</link>
+      <link>http://localhost:1313/tags/autoconciencia/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/autoconciencia/</guid>
+      <guid>http://localhost:1313/tags/autoconciencia/</guid>
       <description></description>
     </item>
     <item>
       <title>Balance Vida-Trabajo</title>
-      <link>https://example.org/tags/balance-vida-trabajo/</link>
+      <link>http://localhost:1313/tags/balance-vida-trabajo/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/balance-vida-trabajo/</guid>
+      <guid>http://localhost:1313/tags/balance-vida-trabajo/</guid>
       <description></description>
     </item>
     <item>
       <title>Evolución</title>
-      <link>https://example.org/tags/evoluci%C3%B3n/</link>
+      <link>http://localhost:1313/tags/evoluci%C3%B3n/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/evoluci%C3%B3n/</guid>
+      <guid>http://localhost:1313/tags/evoluci%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
       <title>Historia Humana</title>
-      <link>https://example.org/tags/historia-humana/</link>
+      <link>http://localhost:1313/tags/historia-humana/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/historia-humana/</guid>
+      <guid>http://localhost:1313/tags/historia-humana/</guid>
       <description></description>
     </item>
     <item>
       <title>Liderazgo</title>
-      <link>https://example.org/tags/liderazgo/</link>
+      <link>http://localhost:1313/tags/liderazgo/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/liderazgo/</guid>
+      <guid>http://localhost:1313/tags/liderazgo/</guid>
       <description></description>
     </item>
     <item>
       <title>Reuniones Efectivas</title>
-      <link>https://example.org/tags/reuniones-efectivas/</link>
+      <link>http://localhost:1313/tags/reuniones-efectivas/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/reuniones-efectivas/</guid>
+      <guid>http://localhost:1313/tags/reuniones-efectivas/</guid>
       <description></description>
     </item>
     <item>
       <title>Sapiens</title>
-      <link>https://example.org/tags/sapiens/</link>
+      <link>http://localhost:1313/tags/sapiens/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/sapiens/</guid>
+      <guid>http://localhost:1313/tags/sapiens/</guid>
       <description></description>
     </item>
     <item>
       <title>The Art of Leadership</title>
-      <link>https://example.org/tags/the-art-of-leadership/</link>
+      <link>http://localhost:1313/tags/the-art-of-leadership/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/the-art-of-leadership/</guid>
+      <guid>http://localhost:1313/tags/the-art-of-leadership/</guid>
       <description></description>
     </item>
     <item>
       <title>Toma De Decisiones</title>
-      <link>https://example.org/tags/toma-de-decisiones/</link>
+      <link>http://localhost:1313/tags/toma-de-decisiones/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/toma-de-decisiones/</guid>
+      <guid>http://localhost:1313/tags/toma-de-decisiones/</guid>
       <description></description>
     </item>
     <item>
       <title>Yuval Noah Harari</title>
-      <link>https://example.org/tags/yuval-noah-harari/</link>
+      <link>http://localhost:1313/tags/yuval-noah-harari/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/yuval-noah-harari/</guid>
+      <guid>http://localhost:1313/tags/yuval-noah-harari/</guid>
       <description></description>
     </item>
     <item>
       <title>Amor</title>
-      <link>https://example.org/tags/amor/</link>
+      <link>http://localhost:1313/tags/amor/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/amor/</guid>
+      <guid>http://localhost:1313/tags/amor/</guid>
       <description></description>
     </item>
     <item>
       <title>Casualidades</title>
-      <link>https://example.org/tags/casualidades/</link>
+      <link>http://localhost:1313/tags/casualidades/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/casualidades/</guid>
+      <guid>http://localhost:1313/tags/casualidades/</guid>
       <description></description>
     </item>
     <item>
       <title>Votos De Amor</title>
-      <link>https://example.org/tags/votos-de-amor/</link>
+      <link>http://localhost:1313/tags/votos-de-amor/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/votos-de-amor/</guid>
+      <guid>http://localhost:1313/tags/votos-de-amor/</guid>
       <description></description>
     </item>
     <item>
       <title>Familia</title>
-      <link>https://example.org/tags/familia/</link>
+      <link>http://localhost:1313/tags/familia/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/familia/</guid>
+      <guid>http://localhost:1313/tags/familia/</guid>
       <description></description>
     </item>
     <item>
       <title>Juanjo</title>
-      <link>https://example.org/tags/juanjo/</link>
+      <link>http://localhost:1313/tags/juanjo/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/juanjo/</guid>
+      <guid>http://localhost:1313/tags/juanjo/</guid>
       <description></description>
     </item>
     <item>
       <title>Nacimiento</title>
-      <link>https://example.org/tags/nacimiento/</link>
+      <link>http://localhost:1313/tags/nacimiento/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/nacimiento/</guid>
+      <guid>http://localhost:1313/tags/nacimiento/</guid>
       <description></description>
     </item>
     <item>
       <title>Celebración</title>
-      <link>https://example.org/tags/celebraci%C3%B3n/</link>
+      <link>http://localhost:1313/tags/celebraci%C3%B3n/</link>
       <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/celebraci%C3%B3n/</guid>
+      <guid>http://localhost:1313/tags/celebraci%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
       <title>Flaca</title>
-      <link>https://example.org/tags/flaca/</link>
+      <link>http://localhost:1313/tags/flaca/</link>
       <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/flaca/</guid>
+      <guid>http://localhost:1313/tags/flaca/</guid>
       <description></description>
     </item>
     <item>
       <title>Gratitud</title>
-      <link>https://example.org/tags/gratitud/</link>
+      <link>http://localhost:1313/tags/gratitud/</link>
       <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/gratitud/</guid>
+      <guid>http://localhost:1313/tags/gratitud/</guid>
       <description></description>
     </item>
     <item>
       <title>Correr</title>
-      <link>https://example.org/tags/correr/</link>
+      <link>http://localhost:1313/tags/correr/</link>
       <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/correr/</guid>
+      <guid>http://localhost:1313/tags/correr/</guid>
       <description></description>
     </item>
     <item>
       <title>Sabiduría</title>
-      <link>https://example.org/tags/sabidur%C3%ADa/</link>
+      <link>http://localhost:1313/tags/sabidur%C3%ADa/</link>
       <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/sabidur%C3%ADa/</guid>
+      <guid>http://localhost:1313/tags/sabidur%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
       <title>Superación</title>
-      <link>https://example.org/tags/superaci%C3%B3n/</link>
+      <link>http://localhost:1313/tags/superaci%C3%B3n/</link>
       <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/superaci%C3%B3n/</guid>
+      <guid>http://localhost:1313/tags/superaci%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
       <title>Esperanza</title>
-      <link>https://example.org/tags/esperanza/</link>
+      <link>http://localhost:1313/tags/esperanza/</link>
       <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/esperanza/</guid>
+      <guid>http://localhost:1313/tags/esperanza/</guid>
       <description></description>
     </item>
     <item>
       <title>Ternura</title>
-      <link>https://example.org/tags/ternura/</link>
+      <link>http://localhost:1313/tags/ternura/</link>
       <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/ternura/</guid>
+      <guid>http://localhost:1313/tags/ternura/</guid>
       <description></description>
     </item>
   </channel>

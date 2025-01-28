@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emmy on Pensamientos</title>
-    <link>https://example.org/tags/emmy/</link>
+    <link>http://localhost:1313/tags/emmy/</link>
     <description>Recent content in Emmy on Pensamientos</description>
     <generator>Hugo</generator>
     <language>es-co</language>
     <lastBuildDate>Fri, 22 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/emmy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/emmy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Little Baby Bump</title>
-      <link>https://example.org/posts/little-baby-bump/</link>
+      <link>http://localhost:1313/posts/little-baby-bump/</link>
       <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/little-baby-bump/</guid>
+      <guid>http://localhost:1313/posts/little-baby-bump/</guid>
       <description>&lt;p&gt;Let me tell you something,&lt;br&gt;&#xA;About your Dad,&lt;br&gt;&#xA;Let me whisper,&lt;br&gt;&#xA;A secret,&lt;/p&gt;&#xA;&lt;p&gt;There is nothing,&lt;br&gt;&#xA;He won&amp;rsquo;t do for you,&lt;br&gt;&#xA;He thinks about you,&lt;br&gt;&#xA;All the time,&lt;/p&gt;&#xA;&lt;p&gt;He works so hard for you,&lt;br&gt;&#xA;For his family,&lt;br&gt;&#xA;He wants you to have,&lt;br&gt;&#xA;The very best in life,\&lt;/p&gt;&#xA;&lt;p&gt;He just wants you,&lt;br&gt;&#xA;To be happy,&lt;br&gt;&#xA;That is why he takes,&lt;br&gt;&#xA;Care of us,&lt;/p&gt;&#xA;&lt;p&gt;So let&amp;rsquo;s make sure,&lt;br&gt;&#xA;That he knows,&lt;br&gt;&#xA;We appreciate him,&lt;br&gt;&#xA;We love him too.\&lt;/p&gt;</description>
     </item>
   </channel>

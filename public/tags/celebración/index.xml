@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Celebración on Pensamientos</title>
-    <link>https://example.org/tags/celebraci%C3%B3n/</link>
+    <link>http://localhost:1313/tags/celebraci%C3%B3n/</link>
     <description>Recent content in Celebración on Pensamientos</description>
     <generator>Hugo</generator>
     <language>es-co</language>
     <lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/celebraci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/celebraci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hoy celebro tu vida</title>
-      <link>https://example.org/posts/hoy-celebro-tu-vida/</link>
+      <link>http://localhost:1313/posts/hoy-celebro-tu-vida/</link>
       <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/hoy-celebro-tu-vida/</guid>
+      <guid>http://localhost:1313/posts/hoy-celebro-tu-vida/</guid>
       <description>&lt;p&gt;Hoy es un día muy especial porque celebro tu vida, la vida de my Beauty. Años que seguro han estado llenos de lecciones y aprendizajes que han moldeado la vida de una mujer sin igual.&lt;/p&gt;&#xA;&lt;p&gt;Decía Oprah Winfrey que mientras más enaltezcas y celebres tu vida, más encontrarás en ella motivos para celebrar. Y es que tu vida está llena de motivos para celebrar, porque eres una mujer sin igual.&lt;/p&gt;</description>
     </item>
   </channel>

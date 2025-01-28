@@ -2,126 +2,126 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/tags/cata/</loc>
+    <loc>http://localhost:1313/tags/cata/</loc>
     <lastmod>2024-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/emmy/</loc>
+    <loc>http://localhost:1313/tags/emmy/</loc>
     <lastmod>2024-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/little-baby-bump/</loc>
+    <loc>http://localhost:1313/posts/little-baby-bump/</loc>
     <lastmod>2024-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/poema/</loc>
+    <loc>http://localhost:1313/tags/poema/</loc>
     <lastmod>2024-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/autoconciencia/</loc>
+    <loc>http://localhost:1313/tags/autoconciencia/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/balance-vida-trabajo/</loc>
+    <loc>http://localhost:1313/tags/balance-vida-trabajo/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/evoluci%C3%B3n/</loc>
+    <loc>http://localhost:1313/tags/evoluci%C3%B3n/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/historia-humana/</loc>
+    <loc>http://localhost:1313/tags/historia-humana/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/la-paradoja-del-homo-sapiens-ficcion-lazos-y-trascendencia/</loc>
+    <loc>http://localhost:1313/posts/la-paradoja-del-homo-sapiens-ficcion-lazos-y-trascendencia/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/liderazgo/</loc>
+    <loc>http://localhost:1313/tags/liderazgo/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/meeting-blur/</loc>
+    <loc>http://localhost:1313/posts/meeting-blur/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/reuniones-efectivas/</loc>
+    <loc>http://localhost:1313/tags/reuniones-efectivas/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/sapiens/</loc>
+    <loc>http://localhost:1313/tags/sapiens/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/the-art-of-leadership/</loc>
+    <loc>http://localhost:1313/tags/the-art-of-leadership/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/toma-de-decisiones/</loc>
+    <loc>http://localhost:1313/tags/toma-de-decisiones/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/yuval-noah-harari/</loc>
+    <loc>http://localhost:1313/tags/yuval-noah-harari/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/amor/</loc>
+    <loc>http://localhost:1313/tags/amor/</loc>
     <lastmod>2024-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/casualidades/</loc>
+    <loc>http://localhost:1313/tags/casualidades/</loc>
     <lastmod>2024-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/un-cruce-del-destino-una-decision-de-amor/</loc>
+    <loc>http://localhost:1313/posts/un-cruce-del-destino-una-decision-de-amor/</loc>
     <lastmod>2024-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/votos-de-amor/</loc>
+    <loc>http://localhost:1313/tags/votos-de-amor/</loc>
     <lastmod>2024-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/mas-alla-del-consumo-la-ia-al-servicio-de-la-sociedad/</loc>
+    <loc>http://localhost:1313/posts/mas-alla-del-consumo-la-ia-al-servicio-de-la-sociedad/</loc>
     <lastmod>2024-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/el-dia-que-llegaste-juanjo/</loc>
+    <loc>http://localhost:1313/posts/el-dia-que-llegaste-juanjo/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/familia/</loc>
+    <loc>http://localhost:1313/tags/familia/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/juanjo/</loc>
+    <loc>http://localhost:1313/tags/juanjo/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/nacimiento/</loc>
+    <loc>http://localhost:1313/tags/nacimiento/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/celebraci%C3%B3n/</loc>
+    <loc>http://localhost:1313/tags/celebraci%C3%B3n/</loc>
     <lastmod>2023-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/flaca/</loc>
+    <loc>http://localhost:1313/tags/flaca/</loc>
     <lastmod>2023-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/gratitud/</loc>
+    <loc>http://localhost:1313/tags/gratitud/</loc>
     <lastmod>2023-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/hoy-celebro-tu-vida/</loc>
+    <loc>http://localhost:1313/posts/hoy-celebro-tu-vida/</loc>
     <lastmod>2023-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/correr/</loc>
+    <loc>http://localhost:1313/tags/correr/</loc>
     <lastmod>2022-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/emociones-y-muchos-kilometros/</loc>
+    <loc>http://localhost:1313/posts/emociones-y-muchos-kilometros/</loc>
     <lastmod>2022-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/sabidur%C3%ADa/</loc>
+    <loc>http://localhost:1313/tags/sabidur%C3%ADa/</loc>
     <lastmod>2022-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/superaci%C3%B3n/</loc>
+    <loc>http://localhost:1313/tags/superaci%C3%B3n/</loc>
     <lastmod>2022-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/carta-a-mi-sobri/</loc>
+    <loc>http://localhost:1313/posts/carta-a-mi-sobri/</loc>
     <lastmod>2022-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/esperanza/</loc>
+    <loc>http://localhost:1313/tags/esperanza/</loc>
     <lastmod>2022-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/ternura/</loc>
+    <loc>http://localhost:1313/tags/ternura/</loc>
     <lastmod>2022-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>
