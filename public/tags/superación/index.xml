@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Superación on Pensamientos</title>
-    <link>http://localhost:1313/tags/superaci%C3%B3n/</link>
+    <link>https://example.org/tags/superaci%C3%B3n/</link>
     <description>Recent content in Superación on Pensamientos</description>
     <generator>Hugo</generator>
     <language>es-co</language>
     <lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/superaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/superaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emociones y muchos kilometros</title>
-      <link>http://localhost:1313/posts/emociones-y-muchos-kilometros/</link>
+      <link>https://example.org/posts/emociones-y-muchos-kilometros/</link>
       <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/emociones-y-muchos-kilometros/</guid>
+      <guid>https://example.org/posts/emociones-y-muchos-kilometros/</guid>
       <description>&lt;p&gt;Desde Medellín hacia Cúcuta hay 582 km. Desde Medellín hasta Pasto hay 813 km. Desde Medellín hasta Santa Marta hay 826 kms y aún así, mi reloj marcó más kilómetros este año: en total fueron 864,3 fascinantes kilómetros. Es como si hubiese corrido desde Medellín hasta Rioacha. Una enorme satisfacción personal.&lt;/p&gt;&#xA;&lt;p&gt;Como lo he mencionado, correr es algo mío, rompe con mi rutina y me recuerda que estoy vivo. Hace que sienta mi cuerpo como en ningún otro momento ni espacio lo siento. Es mi meditación activa. En algunas ocasiones es estar con Jose, en otras, es estar con Manuel. A fin de cuentas, es estar conmigo mismo.&lt;/p&gt;</description>
     </item>
   </channel>

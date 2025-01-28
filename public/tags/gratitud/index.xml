@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gratitud on Pensamientos</title>
-    <link>http://localhost:1313/tags/gratitud/</link>
+    <link>https://example.org/tags/gratitud/</link>
     <description>Recent content in Gratitud on Pensamientos</description>
     <generator>Hugo</generator>
     <language>es-co</language>
     <lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/gratitud/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/gratitud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hoy celebro tu vida</title>
-      <link>http://localhost:1313/posts/hoy-celebro-tu-vida/</link>
+      <link>https://example.org/posts/hoy-celebro-tu-vida/</link>
       <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hoy-celebro-tu-vida/</guid>
+      <guid>https://example.org/posts/hoy-celebro-tu-vida/</guid>
       <description>&lt;p&gt;Hoy es un día muy especial porque celebro tu vida, la vida de my Beauty. Años que seguro han estado llenos de lecciones y aprendizajes que han moldeado la vida de una mujer sin igual.&lt;/p&gt;&#xA;&lt;p&gt;Decía Oprah Winfrey que mientras más enaltezcas y celebres tu vida, más encontrarás en ella motivos para celebrar. Y es que tu vida está llena de motivos para celebrar, porque eres una mujer sin igual.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Emociones y muchos kilometros</title>
-      <link>http://localhost:1313/posts/emociones-y-muchos-kilometros/</link>
+      <link>https://example.org/posts/emociones-y-muchos-kilometros/</link>
       <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/emociones-y-muchos-kilometros/</guid>
+      <guid>https://example.org/posts/emociones-y-muchos-kilometros/</guid>
       <description>&lt;p&gt;Desde Medellín hacia Cúcuta hay 582 km. Desde Medellín hasta Pasto hay 813 km. Desde Medellín hasta Santa Marta hay 826 kms y aún así, mi reloj marcó más kilómetros este año: en total fueron 864,3 fascinantes kilómetros. Es como si hubiese corrido desde Medellín hasta Rioacha. Una enorme satisfacción personal.&lt;/p&gt;&#xA;&lt;p&gt;Como lo he mencionado, correr es algo mío, rompe con mi rutina y me recuerda que estoy vivo. Hace que sienta mi cuerpo como en ningún otro momento ni espacio lo siento. Es mi meditación activa. En algunas ocasiones es estar con Jose, en otras, es estar con Manuel. A fin de cuentas, es estar conmigo mismo.&lt;/p&gt;</description>
     </item>
   </channel>

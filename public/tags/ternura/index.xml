@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ternura on Pensamientos</title>
-    <link>http://localhost:1313/tags/ternura/</link>
+    <link>https://example.org/tags/ternura/</link>
     <description>Recent content in Ternura on Pensamientos</description>
     <generator>Hugo</generator>
     <language>es-co</language>
     <lastBuildDate>Mon, 12 Dec 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ternura/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/ternura/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Carta a mi Sobri</title>
-      <link>http://localhost:1313/posts/carta-a-mi-sobri/</link>
+      <link>https://example.org/posts/carta-a-mi-sobri/</link>
       <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/carta-a-mi-sobri/</guid>
+      <guid>https://example.org/posts/carta-a-mi-sobri/</guid>
       <description>&lt;p&gt;La noticia de tu existencia llegó muy al estilo de tú papá y tú mamá. Ella con su encanto, una risa llena de ilusión y nerviosismo, acompañada y respaldada por él, tu gran padre. Una persona práctica y sin muchos rodeos me dijo: Manuel te contamos que serás tío.&lt;/p&gt;&#xA;&lt;p&gt;Enterarme de tu llegada, me inundó de una inmensa ternura. Como si una tonelada de aleluyas se hubiera derramado dentro de mi corazón, te abracé fuertemente a través de tu hermosa madre, hasta que la emoción se hizo lágrimas. Más felices no podríamos estar.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Casualidades on Pensamientos</title>
-    <link>http://localhost:1313/tags/casualidades/</link>
+    <link>https://example.org/tags/casualidades/</link>
     <description>Recent content in Casualidades on Pensamientos</description>
     <generator>Hugo</generator>
     <language>es-co</language>
     <lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/casualidades/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/casualidades/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Un cruce del destino, una decisión de amor</title>
-      <link>http://localhost:1313/posts/un-cruce-del-destino-una-decision-de-amor/</link>
+      <link>https://example.org/posts/un-cruce-del-destino-una-decision-de-amor/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/un-cruce-del-destino-una-decision-de-amor/</guid>
+      <guid>https://example.org/posts/un-cruce-del-destino-una-decision-de-amor/</guid>
       <description>&lt;p&gt;Milan Kundera en la Insoportable Levedad del Ser reflexiona que &lt;em&gt;&lt;strong&gt;la vida está llena de casualidades que pueden ser insignificantes pero que pueden moldear profundamente nuestras vidas&lt;/strong&gt;&lt;/em&gt;. Y es que por allá en el 2017 venía pensando sobre cuál sería ese siguiente paso fundamental en mi vida que entre las opciones estaba hacer la maestría. Y fue a finales de ese mismo año, que en la esquina del Carulla del Centro Comercial Oviedo, justo en el cruce para pasar hacia la escuela de idiomas de EAFIT, estaba dudoso de si entregar o no los papeles de la inscripción y me preguntaba si valía la pena meterme en esa vuelta canela, porque recién había regresado de un intento fallido de estudio en Bogotá que me tenía golpeado y la verdad es que no sé y no recuerdo qué me impulsó en ese momento a cruzar y dejar los papeles de la inscripción y hoy X años después, lo agradezco inmensamente porque si ese algo que me impulsó a cruzar no hubiese aparecido, no estuviera acá agradeciéndole a la vida y las energías por permitirme compartir mi vida con Cata, con Emmy y con todos ustedes, porque fue en la maestría que tuve la fortuna de coincidir con dos de mis grandes amigos en el que uno de ellos fue cupido. Gracias Tavo parcero.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Más allá del consumo: La IA al servicio de la sociedad</title>
-      <link>http://localhost:1313/posts/mas-alla-del-consumo-la-ia-al-servicio-de-la-sociedad/</link>
+      <link>https://example.org/posts/mas-alla-del-consumo-la-ia-al-servicio-de-la-sociedad/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mas-alla-del-consumo-la-ia-al-servicio-de-la-sociedad/</guid>
+      <guid>https://example.org/posts/mas-alla-del-consumo-la-ia-al-servicio-de-la-sociedad/</guid>
       <description>&lt;p&gt;Hoy la AI es una herramienta súper potente, con una capacidad de uso infinita que ni el hombre, ni sus mismos pensadores, han dimensionado el impacto que esta pueda tener. Hoy quienes le han sacado provecho son las grandes tecnológicas, para ser cada vez más precisos en los réditos y eficaces en sus procesos. Para el resto de la humanidad y los demás sectores, la AI no es más que fuerza bruta con una gran capacidad de cómputo y el rockstar del sensacionalismo, algo más del momento.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nacimiento on Pensamientos</title>
-    <link>http://localhost:1313/tags/nacimiento/</link>
+    <link>https://example.org/tags/nacimiento/</link>
     <description>Recent content in Nacimiento on Pensamientos</description>
     <generator>Hugo</generator>
     <language>es-co</language>
     <lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/nacimiento/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/nacimiento/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>El día que llegaste, Juanjo</title>
-      <link>http://localhost:1313/posts/el-dia-que-llegaste-juanjo/</link>
+      <link>https://example.org/posts/el-dia-que-llegaste-juanjo/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/el-dia-que-llegaste-juanjo/</guid>
+      <guid>https://example.org/posts/el-dia-que-llegaste-juanjo/</guid>
       <description>&lt;p&gt;El 22 de julio del 2023 el día comenzó temprano, sin esperar a que la alarma sonara, estaba con lo ojos abiertos a eso de las 4:50 a.m. venia de unas semanas intensas y divertidas en el trabajo. Con mucho entusiasmo me levanté de la cama y como de costumbre, salí de la habitación para prepararme el infaltable café matutino. Medité y contemplé junto con el café, un hermoso amanacer. Curiosamente me sentía muy bien de ánimos, diferente a los sentimientos que tuve en las últimas semanas. En ninguno de mis pensamientos te cruzaste, bien jugado. Aproveche mi buena energía, energía que seguro me inyectaste y salí a correr. De nuevo, en mi trayecto no te cruzaste por mis pensamientos. Al regresar, mientras desayunaba y mientras le recordaba lo mucho que amo a tu tía Cata, que estaba trabajando desde Paraguay, estabas poniendo en aprietos a tu mami, que según conversaciones con tu padre, iniciaste el deseo de llegar a esta familia desde muy temprano. Exactamente a las 10 de la mañana me llamó tu abuelo y con un llanto de alegría me dijo: “¿Ya sabes la última? Tu hermanita está hospitalizada porque al parecer la tarea se va a cumplir”. Justo en ese instante entendí porqué mis energías estaban al máximo, ya sabían que venías en camino.&lt;/p&gt;</description>
     </item>
   </channel>

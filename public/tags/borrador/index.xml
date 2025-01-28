@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Borrador on Pensamientos</title>
+    <link>https://example.org/tags/borrador/</link>
+    <description>Recent content in Borrador on Pensamientos</description>
+    <generator>Hugo</generator>
+    <language>es-co</language>
+    <lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/borrador/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>En Borrador</title>
+      <link>https://example.org/posts/en-borrador/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/en-borrador/</guid>
+      <description>&lt;p&gt;Querido Gabriel,&lt;/p&gt;&#xA;&lt;p&gt;“¿Qué significa ese símbolo?”, pregunté durante mi visita al antiguo monasterio. “Es un Enso”, respondió la guía, y&#xA;explicó: “Al despertar, los artistas zen, luego de su meditación, intentan dibujar, de una sola pincelada, un círculo&#xA;perfecto. No lo lograrán, es sabido que de una mano humana no puede emerger, de ninguna manera, algo tan divino como un&#xA;círculo sin fallas. Sin embargo, todos los días pretenden dibujar esa figura insuperable. Con los años, ya enterados de&#xA;la verdad demoledora, cada artista desarrolla su grafía particular, su rúbrica, testimonio de una gesta tan infructuosa&#xA;como digna”. ¿Hablamos de vivir en borrador? Conversemos de la vida como un boceto que pulimos sin cesar, de cada día&#xA;como una oportunidad de hacer mejor lo que nunca será perfecto.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
